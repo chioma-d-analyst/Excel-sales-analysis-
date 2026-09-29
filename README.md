@@ -34,3 +34,7 @@ Process
 Project Outcome
 
 The project demonstrates my ability to use Excel to transform raw sales data into structured business information and communicate key findings through tables and visualizations.
+
+Dashboard Preview
+
+https://github.com/chioma-d-analyst/Excel-sales-analysis-
