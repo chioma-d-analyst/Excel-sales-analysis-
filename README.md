@@ -37,4 +37,4 @@ The project demonstrates my ability to use Excel to transform raw sales data int
 
 Dashboard Preview
 
-https://github.com/chioma-d-analyst/Excel-sales-analysis-
+https://github.com/chioma-d-analyst/Excel-sales-analysis-/blob/main/EXCEL%20DASHBOARD.PNG
